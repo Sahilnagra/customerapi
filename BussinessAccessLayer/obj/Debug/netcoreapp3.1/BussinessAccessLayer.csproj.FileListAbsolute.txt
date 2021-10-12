@@ -1,0 +1,16 @@
+C:\Users\Sahil Nagra\Downloads\CRUDAspNetCore5WebAPI\CRUD-BAL\obj\Debug\netcoreapp3.1\BussinessAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Sahil Nagra\Downloads\CRUDAspNetCore5WebAPI\CRUD-BAL\obj\Debug\netcoreapp3.1\BussinessAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sahil Nagra\Downloads\CRUDAspNetCore5WebAPI\CRUD-BAL\obj\Debug\netcoreapp3.1\BussinessAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Sahil Nagra\Downloads\CRUDAspNetCore5WebAPI\CRUD-BAL\obj\Debug\netcoreapp3.1\BussinessAccessLayer.AssemblyInfo.cs
+C:\Users\Sahil Nagra\Downloads\CRUDAspNetCore5WebAPI\CRUD-BAL\obj\Debug\netcoreapp3.1\BussinessAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Sahil Nagra\Downloads\CRUDAspNetCore5WebAPI\CRUD-BAL\bin\Debug\netcoreapp3.1\BussinessAccessLayer.deps.json
+C:\Users\Sahil Nagra\Downloads\CRUDAspNetCore5WebAPI\CRUD-BAL\bin\Debug\netcoreapp3.1\BussinessAccessLayer.runtimeconfig.json
+C:\Users\Sahil Nagra\Downloads\CRUDAspNetCore5WebAPI\CRUD-BAL\bin\Debug\netcoreapp3.1\BussinessAccessLayer.runtimeconfig.dev.json
+C:\Users\Sahil Nagra\Downloads\CRUDAspNetCore5WebAPI\CRUD-BAL\bin\Debug\netcoreapp3.1\BussinessAccessLayer.dll
+C:\Users\Sahil Nagra\Downloads\CRUDAspNetCore5WebAPI\CRUD-BAL\bin\Debug\netcoreapp3.1\BussinessAccessLayer.pdb
+C:\Users\Sahil Nagra\Downloads\CRUDAspNetCore5WebAPI\CRUD-BAL\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\Sahil Nagra\Downloads\CRUDAspNetCore5WebAPI\CRUD-BAL\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\Sahil Nagra\Downloads\CRUDAspNetCore5WebAPI\CRUD-BAL\obj\Debug\netcoreapp3.1\BussinessAccessLayer.csproj.CopyComplete
+C:\Users\Sahil Nagra\Downloads\CRUDAspNetCore5WebAPI\CRUD-BAL\obj\Debug\netcoreapp3.1\BussinessAccessLayer.dll
+C:\Users\Sahil Nagra\Downloads\CRUDAspNetCore5WebAPI\CRUD-BAL\obj\Debug\netcoreapp3.1\BussinessAccessLayer.pdb
+C:\Users\Sahil Nagra\Downloads\CRUDAspNetCore5WebAPI\CRUD-BAL\obj\Debug\netcoreapp3.1\BussinessAccessLayer.genruntimeconfig.cache
