@@ -4,3 +4,4 @@
 4.Add Migrations
 5.Update the Database
 6.Run the project
+7. Test
